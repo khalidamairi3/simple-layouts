@@ -1,0 +1,60 @@
+
+
+.text1{
+    width: 65%;
+    text-align: center;
+    margin-right: 3vw;;
+    display: inline-block;
+
+}
+.text2{
+    width: 80%;
+    text-align: center;
+    margin: 3vw 5vw;
+
+
+}
+
+img{
+    /* display: inline-block; */
+    width: 25%;
+    border: 2px solid black;
+    height: 25vh;
+    margin-top: 3%;
+
+}
+.image2{
+    width: 20%;
+    margin: 2vw;;
+
+
+}
+.container{
+
+    margin: 5vw;
+    border-bottom: 2px solid black ;
+    padding: 5vw;
+  
+}
+
+br{
+    border:solid 2px black;
+}
+
+.content2{
+    display: inline-block;
+    width: 20%;
+    margin: 2vw;;
+
+}
+
+.image3{
+
+    margin-left:35% ;
+    /* margin-top: 5vh; */
+}
+
+.text3{
+
+    margin: 5vw;
+}
